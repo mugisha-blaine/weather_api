@@ -1,7 +1,7 @@
-#Weather APP Desccription
+# Weather APP Description
 I created web application that lets user insert name of city. After it generates weather information from OpenWeatherApi of that chosen city.
 
-##Technologies that are used in my application
+## Technologies that are used in my application
 - Python
 - Html
 - OpenWeatherApi to fetch weather information
